@@ -14,6 +14,12 @@ public class Main_Demo {
     {//sout
         System.out.println("Hello, world!");
         
+        printname();
     }
+
+    private static void printname() {
+        System.out.println("Michael Webb");
+    }
+    
     
 }
